@@ -1,1 +1,1 @@
-clang++ gbtb.cpp -o GBTD.exe
+clang++ gbtb.cpp -o GBTB.exe
